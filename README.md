@@ -4,5 +4,5 @@ First step of this project is to extract data for analysis such as the number of
 
 Here we the data is extracted by using 4 dufferent methods as you may see in the code.<br/>
 **December 20th, 2024** : <br/>
-For now data extractioi has been done in a tabular format, in html and Excel for experomtntal purposes. Further we will see as to which extraction works for us best. 
+For now data extraction has been done in a tabular format, in html and Excel for experomtntal purposes. Further we will see as to which extraction works for us best. 
 More updates on the approach of the project coming soon.
